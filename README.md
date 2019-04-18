@@ -26,4 +26,11 @@ The other cool feature of the new MTK3339-based module (which we have tested wit
 
 Comes with one fully assembled and tested module. If you'd like to back up the RTC for faster fix-recovery, pick up a [sewable CR2032 holder](http://adafruit.com/products/653) & [CR2032 battery](http://adafruit.com/products/654) and sew it so the + side connects to the VBAT pad and the - side connects to ground.
 
+## License
+Adafruit invests time and resources providing this open source design,
+please support Adafruit and open-source hardware by purchasing
+products from Adafruit!
 
+Designed by Adafruit Industries.
+Creative Commons Attribution, Share-Alike license, check license.txt for more information
+All text above must be included in any redistribution
